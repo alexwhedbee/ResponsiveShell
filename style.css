@@ -1,0 +1,46 @@
+/*
+Theme Name: Very Basic Theme
+Theme URI: http://meadpoint.net
+Description: This is a stripped down theme to the simplest possible form.
+Version: 1.0
+Author: William Mead
+Author URI: http://meadpoint.net/
+*/
+
+body {
+	text-align:center;
+}
+
+#page {
+	margin-left:auto;
+	margin-right:auto;
+	width:800px;
+	text-align:left;
+}
+
+#header {
+	height:125px;
+	background-color:#CCC;
+}
+
+#content {
+	float:right;
+	width:560px;
+	background-color:#FFF4EA;
+}
+
+#commentform textarea {
+	width: 100%;
+	}
+
+#sidebar {
+	float:left;
+	width:220px;
+	background-color:#E0E6F3;
+}
+
+#footer {
+	clear:both;
+	text-align:center;
+	background-color:#ccc;
+}
